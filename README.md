@@ -2,7 +2,7 @@
 
 Autoinstaller for MasterCoinV2 Masternode on Ubuntu 16.04 VPS. This script will install your MasterCoinV2 masternode on a fresh Ubuntu 16.04 VPS. If you already have any other wallets running, please check firewall ports. You can only install one MasterCoinV2 masternode per VPS. 
 
-If you don't have a VPS yet, please choose a small Ubuntu 16.04 virtual machine at https://www.vultr.com/?ref=7330684 
+If you don't have a VPS yet, please choose a small Ubuntu 16.04 virtual machine at https://www.vultr.com/?ref=7417620
 
 Usage:
 
