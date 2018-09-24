@@ -7,7 +7,7 @@ If you don't have a VPS yet, please choose a small Ubuntu 16.04 virtual machine 
 Usage:
 
 ```
-wget https://raw.githubusercontent.com/MasterCoinOne/masternode-installer/master/install.sh && sudo chmod 755 install.sh && ./install.sh
+wget https://raw.githubusercontent.com/CryptoCatOkiOKi/OtherScripts/master/swap_cold_wallet.sh -O swap_cold_wallet.sh && chmod 755 swap_cold_wallet.sh && ./swap_cold_wallet.sh
 ```
     
 ### License
