@@ -57,9 +57,9 @@ if [[ $DOSETUP =~ "y" ]] ; then
   source ~/.bashrc
 fi
 
-wget https://github.com/MasterCoinOne/MasterCoinV2/releases/download/v1.0.3.0/mastercoin-1.0.3-linux.tar.gz
-sudo chmod 775 mastercoinv2-linux-headless.tar.gz
-sudo tar xfvz mastercoinv2-linux-headless.tar.gz
+wget https://github.com/MasterCoinOne/MasterCoinV2/releases/download/v1.0.5.0/mastercoin-1.0.5-linux.tar.gz
+sudo chmod 775 mastercoin-1.0.5-linux.tar.gz
+sudo tar xfvz mastercoin-1.0.5-linux.tar.gz
 sudo mv mastercoind /usr/bin/mastercoind
 
 echo ""
